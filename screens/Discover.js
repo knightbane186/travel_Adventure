@@ -62,7 +62,7 @@ GooglePlacesDetailsQuery= {{fields: 'geometry'}}
         console.log(details?.geometry?.viewport);
       }}
       query={{
-        key: 'AIzaSyB2styzL1jDdXELv55KpesaeHqMin5wIKI',
+        key: ["add your api key here"],
         language: 'en',
       }}
     />
