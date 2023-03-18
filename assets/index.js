@@ -1,0 +1,6 @@
+export{ default as MainCharac} from "./Deadpool.png"
+export{ default as Avatar} from "./avatar.png"
+export{ default as hotelImage} from "./Hotel.png"
+export{ default as restoImage} from "./Resto.png"
+export{ default as attractionsImage} from "./attractions.png"
+export{ default as notFoundImage} from "./sad.png"
